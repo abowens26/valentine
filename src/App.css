@@ -146,7 +146,7 @@ a {
   }
 
   img {
-    width: 100%; /* Reduce image size on smaller screens */
+    width: 25%; /* Reduce image size on smaller screens */
     height: 50%;
     margin-right: 0;
     margin-left: 0;
@@ -200,7 +200,7 @@ a {
   }
 
   img {
-    width: 25%;
+    width: 40%;
   }
 
   iframe {
