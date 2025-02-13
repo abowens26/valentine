@@ -50,8 +50,8 @@ function App() {
         <p id="note-t" class="note">
           Dear Tobechi, 
           Happy Valentine's Day! I love you very much and we grown ALOT through this past year. <br></br>
-          I really hope that we continue to love each other each and every day! From the first day I met you, you have motivated me  To become the best man that I could ever become!<br></br>
-          Throughout these 4 (or 5) years I have learned to grow with you! I am really looking foward to loving you for years to come! You are a kind, loving, warm, and fun sprit. I am thankful to have found a person who understands me as much as YOU do. I am proud of you and happy valentines day!<br></br>
+          I really hope that we continue to love each other each and every day! From the first day I met you, you have motivated me be become the best version of myself!<br></br>
+          Throughout these 4 (or 5) years I have learned to GROW and LOVE with you! I am really looking foward to loving you for years to come! You are a kind, loving, warm, and fun sprit. I am thankful to have found a person who understands me as much as YOU do! I am VERY proud of you and happy valentines day!<br></br>
        
         </p>
       </div>
