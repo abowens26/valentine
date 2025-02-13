@@ -197,14 +197,14 @@ a {
   }
 
   img {
-    width: 25% 
+    width: 30% 
   }
 
   iframe {
-    width: 25%;
+    width: 30%;
   }
   .img2 {
-    width: 25%; /* Full width on very small screens */
+    width: 30%; /* Full width on very small screens */
     height: auto;
   }
 
