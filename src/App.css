@@ -199,18 +199,18 @@ a {
   }
 
   img {
-    width: 50% /* Full width on very small screens */
+    width: 25% /* Full width on very small screens */
   }
 
   iframe {
-    width: 100%;
+    width: 25%;
   }
   .img2 {
-    width: 50%; /* Full width on very small screens */
+    width: 25%; /* Full width on very small screens */
   }
 
   button {
-    width: 100%;
+    width: 50%;
     padding: 12px;
     font-size: medium;
   }
