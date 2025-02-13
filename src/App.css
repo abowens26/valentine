@@ -175,6 +175,7 @@ a {
   }
 
   .heart {
+    display: none;
     height: 50px; /* Scale down the heart icon */
     width: 50px;
   }
