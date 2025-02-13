@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import './App.css';
 import video from './Components/Assests/valentinet.MP4'
-import image from './Components/Assests/IMG_8912.jpg'
+import image from './Components/Assests/Tezza-2917.jpeg'
 import image2 from './Components/Assests/IMG_9892.JPG'
 import Flowerview from './Components/Assests/Flowerview';
 
