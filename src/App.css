@@ -1,0 +1,241 @@
+.header{
+  text-align: center;
+  background-color: rgb(240, 96, 120);
+  padding: 20px 0 20px 0;
+}
+
+
+.video-container {
+ display: flex;
+ justify-content: center;
+}
+iframe {
+
+  margin-top: 20px;
+  border: solid pink;
+ 
+
+}
+
+.body {
+  background-color: palevioletred;
+  font-family: 'Courier New', Courier, monospace
+}
+
+.mylove {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(240, 96, 120);
+  font-weight: bolder;
+  padding: 10px;
+  border: 2px solid pink;
+  border-radius: 20px;
+}
+
+img {
+  margin-top: 40px;
+  width: 500px;
+  border: solid pink;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+  .img2 {
+  margin-top: 20px;
+  width: 300px;
+  height: 500px;
+
+}
+
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  background-color: white;
+  border-top: solid black;
+  border-bottom: solid black;  
+  padding: 20px
+}
+
+nav {
+  margin: auto;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+nav:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
+}
+
+
+.note {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.footer {
+  background-color:  rgb(240, 96, 120);
+  padding: 20px 0 20px;
+  block-size: 8rem;
+  margin-top: 10px;
+}
+
+
+button {
+  color: black;
+  font-size: large;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: white;
+  border: 2px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+button:hover {
+  text-decoration: underline;
+}
+
+.heart {
+  height: 100px;
+  width: 100px;
+  border: none;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+
+@media (max-width: 768px) {
+  .header {
+    padding: 15px 0;
+  }
+
+  .nav-container {
+    flex-direction: column; /* Stack the nav items on small screens */
+    padding: 10px;
+  }
+
+  p {
+    font-size: 14px; /* Make text smaller on small screens */
+    padding: 8px;
+  }
+
+  img {
+    width: 100%; /* Reduce image size on smaller screens */
+    height: 50%;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+
+  iframe {
+    width: 25%;
+  }
+
+  .img2 {
+    width: 25%; /* Make image 90% of the container */
+    height: auto; /* Ensure it maintains aspect ratio */
+  }
+
+  .video-container {
+    height: auto;
+    width: auto;
+  }
+
+  footer {
+    padding: 15px;
+  }
+
+  button {
+    width: 100%; /* Make buttons full width on smaller screens */
+    padding: 15px;
+    font-size: medium;
+  }
+
+  .heart {
+    height: 50px; /* Scale down the heart icon */
+    width: 50px;
+  }
+}
+
+/* Extra small screens (phones in portrait mode) */
+@media (max-width: 480px) {
+  .header {
+    padding: 10px 0;
+  }
+
+  .nav-container {
+    flex-direction: column;
+    padding: 5px;
+  }
+
+  p {
+    font-size: 12px; /* Make text even smaller */
+    padding: 6px;
+  }
+
+  img {
+    width: 100% /* Full width on very small screens */
+  }
+
+  iframe {
+    width: 100%;
+  }
+  .img2 {
+    width: 100%; /* Full width on very small screens */
+  }
+
+  button {
+    width: 100%;
+    padding: 12px;
+    font-size: medium;
+  }
+
+  .heart {
+    height: 70px; /* Smaller heart icon */
+    width: 70px;
+  }
+
+  
+}
+
+.flowerscore {
+  display: flex;
+  justify-content: center;
+
+}
+
+.flower {
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+}
+
+.sparkle{
+  font-size: xx-large;
+  cursor: pointer;
+}
