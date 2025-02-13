@@ -200,8 +200,10 @@ a {
   }
 
   img {
-    width: 20px;
-    height: 100px;
+    width: 100%;
+    height: auto;
+    max-width: 100px; 
+    object-fit: cover; 
   }
 
   iframe {
