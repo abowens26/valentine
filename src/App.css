@@ -199,8 +199,8 @@ a {
   }
 
   img {
-    width: 1rem; /* Full width on very small screens */
-    height: 1rem;
+    width: 0%;
+    height: 0%;
   }
 
   iframe {
