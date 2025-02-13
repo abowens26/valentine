@@ -18,7 +18,7 @@ function App() {
 
     <div class='body'>
             <header class="header">
-        <h1>Happy Valentines Day Tobechi!</h1>
+        <h1>aHappy Valentines Day Tobechi!</h1>
         <h2>Click links to see what we are doing this weekend! &#128513;</h2>
       </header>
 
