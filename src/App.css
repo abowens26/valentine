@@ -191,20 +191,24 @@ a {
     padding: 5px;
   }
 
+  .video-container {
+    flex-direction: column;
+  }
+
   p {
     font-size: 12px; /* Make text even smaller */
     padding: 6px;
   }
 
   img {
-    width: 25% 
+    width: 50% 
   }
 
   iframe {
-    width: 25%;
+    width: 50%;
   }
   .img2 {
-    width: 25%; /* Full width on very small screens */
+    width: 50%; /* Full width on very small screens */
     height: auto;
   }
 
