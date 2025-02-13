@@ -191,10 +191,6 @@ a {
     padding: 5px;
   }
 
-  .video-container {
-    flex-direction: column;
-  }
-
   p {
     font-size: 12px; /* Make text even smaller */
     padding: 6px;
@@ -219,6 +215,7 @@ a {
   }
 
   .heart {
+    display: none;
     height: 70px; /* Smaller heart icon */
     width: 70px;
   }

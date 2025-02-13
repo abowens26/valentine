@@ -32,7 +32,7 @@ function App() {
       <div class="video-container"> 
       <img alt="" class="heart" src="https://webstockreview.net/images/heart-clipart-red-2.png"></img>
         <img alt="" class="pic" src={image}></img>
-        <iframe title="tiktok" width="500px" height={"500px"} allowFullScreen="true" src={video}></iframe>
+        <iframe title="tiktok" width="auto" height={"auto"} allowFullScreen="true" src={video}></iframe>
            <img alt="" class="img2" src={image2}></img>
            <img alt="" class="heart" src="https://webstockreview.net/images/heart-clipart-red-2.png"></img>
       </div>
