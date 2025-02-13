@@ -199,14 +199,14 @@ a {
   }
 
   img {
-    width: 100% /* Full width on very small screens */
+    width: 50% /* Full width on very small screens */
   }
 
   iframe {
     width: 100%;
   }
   .img2 {
-    width: 100%; /* Full width on very small screens */
+    width: 50%; /* Full width on very small screens */
   }
 
   button {
@@ -218,6 +218,10 @@ a {
   .heart {
     height: 70px; /* Smaller heart icon */
     width: 70px;
+  }
+
+  .sparkle {
+    font-size: large;
   }
 
   
